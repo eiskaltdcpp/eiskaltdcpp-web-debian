@@ -1,0 +1,26 @@
+Source: eiskaltdcpp-web
+Section: web
+Priority: optional
+Maintainer: Boris Pek <tehnick@debian.org>
+Build-Depends: cmake, debhelper (>= 9)
+Homepage: https://github.com/eiskaltdcpp/eiskaltdcpp-web
+Vcs-Git: https://github.com/eiskaltdcpp/eiskaltdcpp-web-debian.git
+Vcs-Browser: https://github.com/eiskaltdcpp/eiskaltdcpp-web-debian
+Standards-Version: 4.5.0
+Rules-Requires-Root: no
+
+Package: eiskaltdcpp-web
+Architecture: all
+Depends: libjs-jquery,
+         libjs-jquery-tablesorter,
+         libjs-requirejs,
+         ${misc:Depends}
+Recommends: eiskaltdcpp-daemon, xdg-utils
+Description: Simple Web UI for eiskaltdcpp-daemon
+ This package contains Web UI for eiskaltdcpp-daemon. It may be used locally on
+ PC or via network depending on user needs.
+ .
+ EiskaltDC++ is a cross-platform program that uses the Direct Connect and
+ Advanced Direct Connect protocols. It is compatible with DC++, AirDC++,
+ FlylinkDC++ and other DC clients. EiskaltDC++ also interoperates with all
+ common DC hub software.
