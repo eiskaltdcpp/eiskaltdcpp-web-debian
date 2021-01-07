@@ -2,11 +2,11 @@ Source: eiskaltdcpp-web
 Section: web
 Priority: optional
 Maintainer: Boris Pek <tehnick@debian.org>
-Build-Depends: cmake, debhelper (>= 9)
+Build-Depends: cmake, debhelper-compat (= 13)
 Homepage: https://github.com/eiskaltdcpp/eiskaltdcpp-web
 Vcs-Git: https://github.com/eiskaltdcpp/eiskaltdcpp-web-debian.git
 Vcs-Browser: https://github.com/eiskaltdcpp/eiskaltdcpp-web-debian
-Standards-Version: 4.5.0
+Standards-Version: 4.5.1
 Rules-Requires-Root: no
 
 Package: eiskaltdcpp-web

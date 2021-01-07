@@ -1,5 +1,5 @@
 eiskaltdcpp-web (1.0.0-1) experimental; urgency=medium
 
-  * Initial release (Closes: #979470).
+  * Initial release. (Closes: #979470)
 
  -- Boris Pek <tehnick@debian.org>  Thu, 07 Jan 2021 05:14:14 +0300
