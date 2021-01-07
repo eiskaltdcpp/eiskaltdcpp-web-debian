@@ -1,11 +1,5 @@
-eiskaltdcpp-web (1.0.1-0ppa1~focal1) focal; urgency=medium
+eiskaltdcpp-web (1.0.1-1) experimental; urgency=medium
 
-  * New stable release.
+  * Initial release. (Closes: #979470)
 
- -- Boris Pek <tehnick@debian.org>  Sat, 25 Jan 2020 19:09:39 +0300
-
-eiskaltdcpp-web (0.0-1) unstable; urgency=low
-
-  * Initial release.
-
- -- Boris Pek <tehnick-8@mail.ru>  Wed, 22 Jan 2020 00:13:18 +0300
+ -- Boris Pek <tehnick@debian.org>  Thu, 07 Jan 2021 05:29:40 +0300
