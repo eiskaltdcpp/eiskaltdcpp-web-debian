@@ -1,5 +1,5 @@
-eiskaltdcpp-web (0.0-1) unstable; urgency=low
+eiskaltdcpp-web (1.0.0-1) experimental; urgency=medium
 
-  * Initial release.
+  * Initial release (Closes: #979470).
 
- -- Boris Pek <tehnick-8@mail.ru>  Wed, 22 Jan 2020 00:13:18 +0300
+ -- Boris Pek <tehnick@debian.org>  Thu, 07 Jan 2021 05:14:14 +0300
